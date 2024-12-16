@@ -3,3 +3,7 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 M
 contracts/credential-nft.clar,3/d/3dc2c8ea54ab660ee1741b74963dc2e3bc26c18a
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+P
+ contracts/credential-issuer.clar,7/1/71766ec79696259be3eaa8c537163033512a14d3
