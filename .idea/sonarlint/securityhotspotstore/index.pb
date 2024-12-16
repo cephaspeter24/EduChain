@@ -7,3 +7,5 @@ M
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 P
  contracts/credential-issuer.clar,7/1/71766ec79696259be3eaa8c537163033512a14d3
+R
+"contracts/verification-portal.clar,3/2/3238a8589feade4d2a5de9b073d86fa6f48cbd4f
