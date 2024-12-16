@@ -11,3 +11,5 @@ R
 "contracts/verification-portal.clar,3/2/3238a8589feade4d2a5de9b073d86fa6f48cbd4f
 Q
 !tests/verification-portal.test.ts,c/5/c54bfaf0d43bc1780f6407a5a93b9e12aa47b537
+V
+&contracts/institution-integration.clar,d/e/de4b0641b405f4330167ec8abc483793cebdbe44
