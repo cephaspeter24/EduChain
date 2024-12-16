@@ -9,3 +9,5 @@ P
  contracts/credential-issuer.clar,7/1/71766ec79696259be3eaa8c537163033512a14d3
 R
 "contracts/verification-portal.clar,3/2/3238a8589feade4d2a5de9b073d86fa6f48cbd4f
+Q
+!tests/verification-portal.test.ts,c/5/c54bfaf0d43bc1780f6407a5a93b9e12aa47b537
