@@ -13,3 +13,5 @@ Q
 !tests/verification-portal.test.ts,c/5/c54bfaf0d43bc1780f6407a5a93b9e12aa47b537
 V
 &contracts/institution-integration.clar,d/e/de4b0641b405f4330167ec8abc483793cebdbe44
+U
+%tests/institution-integration.test.ts,1/b/1bf48510951a2b85150e75c17ec8d9ebb6b355e2

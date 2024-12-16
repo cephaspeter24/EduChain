@@ -60,6 +60,11 @@ plan:
             path: contracts/credential-nft.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: institution-integration
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/institution-integration.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: verification-portal
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/verification-portal.clar
